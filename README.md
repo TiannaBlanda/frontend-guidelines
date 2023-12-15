@@ -1,4 +1,4 @@
-# Frontend Guidelines
+ *Frontend*Guidelines
 
 ## HTML
 
@@ -890,3 +890,4 @@ compact(["foo", 0]);
 unique(["foo", "foo"]);
 union(["foo"], ["bar"], ["foo"]);
 ```
+ 
